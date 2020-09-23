@@ -1,0 +1,16 @@
+.nav{
+    color: grey;
+    align-self: center;
+    font-size: large;
+    text-decoration: none;
+}
+
+.nav:hover{
+    color: darkgray;
+}
+
+.my_nav{
+    flex: 1;
+    padding-right: 200px;
+    justify-content: space-evenly;
+}

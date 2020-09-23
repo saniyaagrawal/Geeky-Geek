@@ -1,0 +1,13 @@
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.course{
+    flex:1;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20;
+    justify-content: center;
+}
